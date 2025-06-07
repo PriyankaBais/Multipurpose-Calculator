@@ -1,21 +1,21 @@
-<b>Multi-Purpose Calculator</b> 🔢
+<b>Multi-Purpose Calculator</b> 🔢<br>
 This is a responsive and user-friendly Multi-Purpose Calculator Web App developed using HTML, CSS, and JavaScript. The application integrates various calculators and converters into a single platform for ease of use.
 
 🚀 <b>Features</b><br>
 The calculator includes the following utilities:
 
-🔢<b> Basic Calculator</b></br>
-Perform standard arithmetic operations: Addition, Subtraction, Multiplication, and Division<br>
+🔢Basic Calculator</br>
+1. Perform standard arithmetic operations: Addition, Subtraction, Multiplication, and Division<br>
 
-<b>Voice output for every input and result</b>
+2. Voice output for every input and result
 
-💱 <b>Currency Converter (USD to INR)</br>
-Converts the entered amount in USD to INR using a fixed conversion rate
+💱 3.Currency Converter (USD to INR)<br>
+Converts the entered amount in USD to INR using a fixed conversion rate<br.
 
-📊 <b>CGPA Calculator</b><br>
-Computes CGPA from a comma-separated list of grades
+📊4. CGPA Calculator<br>
+Computes CGPA from a comma-separated list of grades<br>
 
-📐 <b>Area Calculator</b></br>
+📐5. Area Calculator</br>
 Calculates area for multiple shapes:
 1. Circle
 2. Square
@@ -26,16 +26,16 @@ Calculates area for multiple shapes:
 7. Cone
 8. Sphere
 
-🌡️ <b>Temperature Converter</b><br>
-Converts temperature from Celsius to Fahrenheit
+🌡️6.Temperature Converter<br>
+Converts temperature from Celsius to Fahrenheit<br>
 
-📈<b> Percentage Calculator</b><br>
-Calculates percentage from obtained and total marks
+📈7.Percentage Calculator<br>
+Calculates percentage from obtained and total marks<br>
 
-🔊<b> Speech Feedback</br>
-Uses the Web Speech API to speak out all inputs and results for better accessibility
+🔊 8.Speech Feedback</br>
+Uses the Web Speech API to speak out all inputs and results for better accessibility<br>
 
-💡<b> Technologies Used<b></br>
+💡<b>Technologies Used</b><br>
 1. HTML5 for structure
 2. CSS3 for styling and layout
 3. Vanilla JavaScript for interactivity and logic
